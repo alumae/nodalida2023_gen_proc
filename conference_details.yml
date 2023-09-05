@@ -1,0 +1,15 @@
+book_title: Proceedings of the 24th Nordic Conference on Computational Linguistics (NoDaLiDa)
+event_name: 24th Nordic Conference on Computational Linguistics (NoDaLiDa)
+volume_name: main
+cover_subtitle: Proceedings of the Conference
+anthology_venue_id: NoDaLiDa
+start_date: 2023-05-22
+end_date: 2023-05-24
+isbn: 978-99-1621-999-7
+location: Tórshavn, Faroe Islands
+editors:
+  - first_name: Tanel
+    last_name: Alumäe
+  - first_name: Mark
+    last_name: Fishel
+publisher: University of Tartu Library

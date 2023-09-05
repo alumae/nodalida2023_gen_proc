@@ -1,0 +1,17 @@
+- tier: Silver
+  logos:
+    - dictus.png
+    - elektron.pdf
+    - sprakbanken.pdf
+- tier: Bronze
+  logos:
+    - formula.pdf
+    - bank_nordik.png
+- tier: Other
+  logos:
+    - malradid.png
+    - digitaliseringsstyrelsen.png
+    - NEALT.pdf
+    - tktk.png
+    - UofF.png
+  

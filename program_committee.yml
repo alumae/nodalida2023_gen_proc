@@ -1,0 +1,895 @@
+- entries:
+  - dblp_id: https://dblp.org/pid/211/7416
+    emails: adam.ek@gu.se
+    first_name: Adam
+    google_scholar_id: https://scholar.google.se/citations?user=h4igLNUAAAAJ&hl=sv
+    institution: Department of Philosophy, Linguistics and Theory of Science
+    last_name: Ek
+    name: Adam Ek
+    semantic_scholar_id: https://www.semanticscholar.org/author/Adam-Ek/20493598
+    username: ~Adam_Ek1
+  - dblp_id: https://dblp.org/pid/145/7972
+    emails: alessandro.raganato@unimib.it
+    first_name: Alessandro
+    google_scholar_id: https://scholar.google.com/citations?user=aek0emAAAAAJ
+    homepage: https://raganato.github.io/
+    institution: University of Milan - Bicocca
+    last_name: Raganato
+    name: Alessandro Raganato
+    semantic_scholar_id: https://www.semanticscholar.org/author/Alessandro-Raganato/3106437
+    username: ~Alessandro_Raganato1
+  - dblp_id: https://dblp.org/pid/24/9125
+    emails: ali.basirat@liu.se
+    first_name: Ali
+    google_scholar_id: https://scholar.google.se/citations?user=OHpZ_i4AAAAJ&hl=en
+    homepage: https://liu.se/en/employee/aliba43
+    institution: Linköping University
+    last_name: Basirat
+    name: Ali Basirat
+    orcid: https://orcid.org/0000-0002-4718-886X
+    semantic_scholar_id: https://www.semanticscholar.org/author/A.-Basirat/2149188
+    username: ~Ali_Basirat1
+  - emails: andre.kasen@nb.no
+    first_name: Andre
+    homepage: https://www.nb.no/dh-lab/kontakt/
+    last_name: Kasen
+    name: Andre Kasen
+    username: ~Andre_Kasen1
+  - dblp_id: https://dblp.org/pid/205/8952
+    emails: andre.tattar@gmail.com
+    first_name: Andre
+    google_scholar_id: https://scholar.google.com/citations?hl=en&user=yjZPjfUAAAAJ
+    institution: University of Tartu
+    last_name: Tättar
+    name: Andre Tättar
+    semantic_scholar_id: https://www.semanticscholar.org/author/Andre-T%C3%A4ttar/24896923
+    username: ~Andre_Tättar1
+  - dblp_id: https://dblp.org/pid/151/8223.html
+    emails: dresen@gmail.com
+    first_name: Andreas
+    google_scholar_id: https://scholar.google.dk/citations?user=1JwrAawAAAAJ&hl=en
+    institution: ATP
+    last_name: Kirkedal
+    name: Andreas Kirkedal
+    semantic_scholar_id: https://www.semanticscholar.org/author/Andreas-S%C3%B8eborg-Kirkedal/2190615
+    username: ~Andreas_Kirkedal1
+  - dblp_id: https://dblp.org/pid/54/4387
+    emails: andreku@ifi.uio.no
+    first_name: Andrey
+    google_scholar_id: https://scholar.google.com/citations?user=Jq4Wq7AAAAAJ
+    homepage: https://www.mn.uio.no/ifi/english/people/aca/andreku/
+    institution: University of Oslo
+    last_name: Kutuzov
+    name: Andrey Kutuzov
+    orcid: https://orcid.org/0000-0003-2540-5912
+    semantic_scholar_id: https://www.semanticscholar.org/author/Andrey-Kutuzov/2689095
+    username: ~Andrey_Kutuzov1
+  - emails: anna@grammatek.com
+    first_name: Anna
+    google_scholar_id: https://scholar.google.com/citations?user=AMmjEtcAAAAJ&hl=en&oi=ao
+    homepage: https://grammatek.com/
+    last_name: Nikulasdottir
+    middle_name: Björk
+    name: Anna Björk Nikulasdottir
+    username: ~Anna_Björk_Nikulasdottir1
+  - emails: anthip@ifi.uio.no
+    first_name: Anthi
+    homepage: https://www.mn.uio.no/ifi/english/people/aca/anthip/index.html
+    institution: University of Oslo
+    last_name: Papadopoulou
+    name: Anthi Papadopoulou
+    username: ~Anthi_Papadopoulou1
+  - dblp_id: https://dblp.org/pid/41/9013
+    emails: antske.fokkens@vu.nl
+    first_name: Antske
+    google_scholar_id: https://scholar.google.com/citations?user=El5nmZUAAAAJ&hl=nl
+    institution: VU University Amsterdam and Eindhoven University of Technology
+    last_name: Fokkens
+    name: Antske Fokkens
+    semantic_scholar_id: https://www.semanticscholar.org/author/Antske-Fokkens/2260120
+    username: ~Antske_Fokkens1
+  - dblp_id: https://dblp.org/pid/32/10934
+    emails: a.bisazza@rug.nl
+    first_name: Arianna
+    homepage: https://www.cs.rug.nl/~bisazza/
+    institution: University of Groningen
+    last_name: Bisazza
+    name: Arianna Bisazza
+    username: ~Arianna_Bisazza1
+  - emails: arild.naess@ntnu.no
+    first_name: Arild
+    homepage: https://www.ntnu.edu/employees/arild.naess
+    institution: Norwegian University of Science and Technology
+    last_name: Næss
+    middle_name: Brandrud
+    name: Arild Brandrud Næss
+    username: ~Arild_Brandrud_Næss1
+  - dblp_id: https://dblp.org/pid/151/7199.html
+    emails: askars.salimbajevs@tilde.lv
+    first_name: Askars
+    last_name: Salimbajevs
+    name: Askars Salimbajevs
+    username: ~Askars_Salimbajevs1
+  - emails: baiba@ailab.lv
+    first_name: Baiba
+    google_scholar_id: https://scholar.google.com/citations?hl=lv&user=vgNuqpMAAAAJ
+    institution: University of Latvia
+    last_name: Saulīte
+    middle_name: Valkovska
+    name: Baiba Valkovska Saulīte
+    orcid: https://orcid.org/0000-0002-7300-8674
+    username: ~Baiba_Valkovska_Saulīte1
+  - dblp_id: https://dblp.org/pid/46/521.html
+    emails: bplank@gmail.com
+    first_name: Barbara
+    homepage: https://bplank.github.io/
+    institution: Ludwig-Maximilians-Universität München and IT University of Copenhagen
+    last_name: Plank
+    name: Barbara Plank
+    semantic_scholar_id: https://www.semanticscholar.org/author/Barbara-Plank/2022124
+    username: ~Barbara_Plank2
+  - dblp_id: https://dblp.org/pid/m/BrunoMartins
+    emails: bgmartins@gmail.com
+    first_name: Bruno
+    google_scholar_id: https://scholar.google.com/citations?user=VQMUt8kAAAAJ&hl=en
+    homepage: http://web.ist.utl.pt/bruno.g.martins/
+    institution: InstituInstituto Superior Técnico
+    last_name: Martins
+    name: Bruno Martins
+    orcid: https://orcid.org/0000-0002-3856-2936
+    semantic_scholar_id: https://www.semanticscholar.org/author/Bruno-Martins/144694868
+    username: ~Bruno_Martins1
+  - dblp_id: https://dblp.org/pid/151/8532
+    emails: chloe.braud@irit.fr
+    first_name: Chloé
+    google_scholar_id: https://scholar.google.fr/citations?user=mXBOCq0AAAAJ&hl=fr
+    homepage: https://pagesperso.irit.fr/~Chloe.Braud/
+    institution: irit and CNRS
+    last_name: Braud
+    name: Chloé Braud
+    orcid: https://orcid.org/0000-0002-1874-3430
+    semantic_scholar_id: https://www.semanticscholar.org/author/Chlo%C3%A9-Braud/2929661
+    username: ~Chloé_Braud2
+  - dblp_id: https://dblp.org/pid/28/7010
+    emails: costanza@hum.ku.dk
+    first_name: Costanza
+    google_scholar_id: https://scholar.google.com/citations?user=9zYEnbIAAAAJ&hl=en
+    homepage: https://nors.ku.dk/ansatte/?pure=da/persons/53191
+    institution: Copenhagen University
+    last_name: Navarretta
+    name: Costanza Navarretta
+    orcid: https://orcid.org/0000-0002-4242-9249
+    semantic_scholar_id: https://www.semanticscholar.org/author/Costanza-Navarretta/1795757
+    username: ~Costanza_Navarretta1
+  - dblp_id: https://dblp.org/pid/61/2039
+    emails: dana.dannells@svenska.gu.se
+    first_name: Dana
+    google_scholar_id: https://scholar.google.com/citations?user=zC9U76UAAAAJ&hl=sv
+    homepage: https://spraakbanken.gu.se/om/personal/dana
+    institution: 'Göteborg University '
+    last_name: Dannélls
+    name: Dana Dannélls
+    orcid: https://orcid.org/0000-0002-3338-2979
+    semantic_scholar_id: https://www.semanticscholar.org/author/Dana-Dann%C3%A9lls/2042568
+    username: ~Dana_Dannélls1
+  - dblp_id: https://dblp.org/pid/145/9324
+    emails: dh@di.ku.dk
+    first_name: Daniel
+    google_scholar_id: https://scholar.google.com/citations?user=479qIucAAAAJ
+    homepage: http://danielhers.github.io/
+    institution: University of Copenhagen
+    last_name: Hershcovich
+    name: Daniel Hershcovich
+    orcid: https://orcid.org/0000-0002-3966-8708
+    semantic_scholar_id: https://www.semanticscholar.org/author/Daniel-Hershcovich/2086349
+    username: ~Daniel_Hershcovich1
+  - dblp_id: https://dblp.org/pid/223/4732
+    emails: djam@itu.dk
+    first_name: Daniel
+    google_scholar_id: https://scholar.google.com/citations?user=J-19HNYAAAAJ&hl=en
+    homepage: https://danielvarab.github.io/
+    last_name: Varab
+    name: Daniel Varab
+    semantic_scholar_id: https://www.semanticscholar.org/author/Daniel-Varab/51117789
+    username: ~Daniel_Varab1
+  - dblp_id: https://dblp.org/pid/168/0437
+    emails: david.alfter@uclouvain.be
+    first_name: David
+    google_scholar_id: https://scholar.google.com/citations?user=LL_Y7TYAAAAJ
+    institution: UCL
+    last_name: Alfter
+    name: David Alfter
+    semantic_scholar_id: https://www.semanticscholar.org/author/David-Alfter/1971580
+    username: ~David_Alfter1
+  - dblp_id: https://dblp.org/pid/17/8704
+    emails: eduard.barbu@ut.ee
+    first_name: Eduard
+    institution: institute of computer science, University of Tartu
+    last_name: Barbu
+    name: Eduard Barbu
+    username: ~Eduard_Barbu1
+  - emails: einar.meister@taltech.ee
+    first_name: Einar
+    google_scholar_id: https://scholar.google.com/citations?hl=en&user=Q2S0uG8AAAAJ
+    institution: Tallinn University of Technology
+    last_name: Meister
+    name: Einar Meister
+    orcid: https://orcid.org/0000-0002-2179-735X
+    username: ~Einar_Meister1
+  - dblp_id: https://dblp.org/pid/76/8162
+    emails: lapshinovakoltun@uni-hildesheim.de
+    first_name: Ekaterina
+    google_scholar_id: https://scholar.google.com/citations?user=kzIiTmAAAAAJ&hl=de
+    homepage: https://www.uni-hildesheim.de/fb3/institute/institut-fuer-uebersetzungswiss-fachkommunikation/mitglieder-des-instituts/lapshinova
+    institution: Universität Hildesheim and Saarland University
+    last_name: Lapshinova-Koltunski
+    name: Ekaterina Lapshinova-Koltunski
+    orcid: https://orcid.org/0000-0002-5618-8087
+    semantic_scholar_id: https://www.semanticscholar.org/author/Ekaterina-Lapshinova-Koltunski/2706548
+    username: ~Ekaterina_Lapshinova-Koltunski2
+  - emails: elena.volodina@svenska.gu.se
+    first_name: Elena
+    google_scholar_id: https://scholar.google.com/citations?user=YcpEL2YAAAAJ&hl=sv
+    homepage: https://spraakbanken.gu.se/en/about/staff/elena
+    institution: Göteborg University
+    last_name: Volodina
+    name: Elena Volodina
+    semantic_scholar_id: https://www.semanticscholar.org/author/E.-Volodina/143620707?sort=total-citations
+    username: ~Elena_Volodina1
+  - emails: eva.pettersson@lingfil.uu.se
+    first_name: Eva
+    homepage: https://www.katalog.uu.se/empinfo/?id=N3-992
+    institution: Uppsala University
+    last_name: Pettersson
+    name: Eva Pettersson
+    username: ~Eva_Pettersson1
+  - emails: farmeh@utu.fi
+    first_name: Farrokh
+    google_scholar_id: https://scholar.google.com/citations?user=ATnhH8UAAAAJ
+    homepage: https://www.utu.fi/en/people/farrokh-mehryary
+    institution: University of Turku
+    last_name: Mehryary
+    name: Farrokh Mehryary
+    username: ~Farrokh_Mehryary1
+  - emails: figint@utu.fi
+    first_name: Filip
+    google_scholar_id: https://scholar.google.com/citations?user=8XsfOy8AAAAJ&hl=en&oi=ao
+    homepage: https://turkunlp.org
+    last_name: Ginter
+    name: Filip Ginter
+    orcid: https://orcid.org/0000-0002-5484-6103
+    username: ~Filip_Ginter2
+  - emails: fredrik.wahlberg@lingfil.uu.se
+    first_name: Fredrik
+    google_scholar_id: https://scholar.google.com/citations?hl=en&user=5dFVzXYAAAAJ
+    institution: Uppsala University
+    last_name: Wahlberg
+    name: Fredrik Wahlberg
+    username: ~Fredrik_Wahlberg1
+  - dblp_id: https://dblp.org/pid/04/8157
+    emails: gerlof.bouma@gu.se
+    first_name: Gerlof
+    google_scholar_id: https://scholar.google.com/citations?user=dFT7ONkAAAAJ
+    institution: University of Gothenburg
+    last_name: Bouma
+    name: Gerlof Bouma
+    semantic_scholar_id: https://www.semanticscholar.org/author/G.-Bouma/34211567
+    username: ~Gerlof_Bouma1
+  - dblp_id: https://dblp.org/pid/b/GosseBouma
+    emails: g.bouma@rug.nl
+    first_name: Gosse
+    google_scholar_id: https://scholar.google.nl/citations?user=sd-w59cAAAAJ
+    homepage: https://www.let.rug.nl
+    institution: University of Groningen
+    last_name: Bouma
+    name: Gosse Bouma
+    orcid: https://orcid.org/0000-0003-1106-3181
+    username: ~Gosse_Bouma1
+  - dblp_id: https://dblp.org/pid/56/8523
+    emails: hnsmoen@gmail.com
+    first_name: Hans
+    google_scholar_id: https://scholar.google.fi/citations?user=r3NgJvMAAAAJ
+    homepage: https://people.aalto.fi/hans.moen
+    institution: Aalto University
+    last_name: Moen
+    name: Hans Moen
+    orcid: https://orcid.org/0000-0003-1418-7892
+    semantic_scholar_id: https://www.semanticscholar.org/author/Hans-Moen/40633376
+    username: ~Hans_Moen1
+  - dblp_id: https://dblp.org/pid/41/9770
+    emails: heike.zinsmeister@uni-hamburg.de
+    first_name: Heike
+    institution: Universität Hamburg
+    last_name: Zinsmeister
+    name: Heike Zinsmeister
+    username: ~Heike_Zinsmeister1
+  - dblp_id: https://dblp.org/pid/04/2683
+    emails: heiki-jaan.kaalep@ut.ee
+    first_name: Heiki-Jaan
+    institution: institute of computer science, University of Tartu
+    last_name: Kaalep
+    name: Heiki-Jaan Kaalep
+    username: ~Heiki-Jaan_Kaalep1
+  - emails: heili.orav@ut.ee
+    first_name: Heili
+    homepage: https://nlp.cs.ut.ee/
+    last_name: Orav
+    name: Heili Orav
+    username: ~Heili_Orav1
+  - dblp_id: https://dblp.org/pid/96/6022
+    emails: hercules@dsv.su.se
+    first_name: Hercules
+    google_scholar_id: https://scholar.google.com/citations?user=IfpMsyoAAAAJ&hl=sv&oi=ao
+    homepage: http://people.dsv.su.se/hercules/
+    institution: Stockholm University
+    last_name: Dalianis
+    name: Hercules Dalianis
+    username: ~Hercules_Dalianis1
+  - dblp_id: https://dblp.org/pid/98/5952
+    emails: hrafn@ru.is
+    first_name: Hrafn
+    google_scholar_id: https://scholar.google.is/citations?user=QwLbmpUAAAAJ&hl=en
+    homepage: http://kennarar.ru.is/hrafn/
+    institution: Reykjavík University
+    last_name: Loftsson
+    name: Hrafn Loftsson
+    username: ~Hrafn_Loftsson1
+  - emails: ilzea@latnet.lv
+    first_name: Ilze
+    google_scholar_id: https://scholar.google.com/citations?user=sb59pncAAAAJ&hl=lv
+    institution: Institute of Mathematics and Computer Science, University of Latvia
+    last_name: Auzina
+    name: Ilze Auzina
+    orcid: https://orcid.org/0000-0001-6143-2841
+    username: ~Ilze_Auzina1
+  - dblp_id: https://dblp.org/pid/52/4429
+    emails: jtl@ifi.uio.no
+    first_name: Jan
+    homepage: https://www.mn.uio.no/ifi/english/people/aca/jtl/
+    institution: University of Oslo
+    last_name: Lønning
+    middle_name: Tore
+    name: Jan Tore Lønning
+    username: ~Jan_Tore_Lønning1
+  - emails: jari.bjorne@utu.fi
+    first_name: Jari
+    homepage: http://just.let.me.register
+    institution: University of Turku
+    last_name: Björne
+    name: Jari Björne
+    username: ~Jari_Björne1
+  - dblp_id: https://dblp.org/pid/47/929
+    emails: jean-philippe.bernardy@gu.se
+    first_name: Jean-Philippe
+    google_scholar_id: https://scholar.google.se/citations?user=KwPrvYQAAAAJ
+    institution: Gothenburg University
+    last_name: Bernardy
+    name: Jean-Philippe Bernardy
+    orcid: https://orcid.org/my-orcid?orcid=0000-0002-8469-5617
+    semantic_scholar_id: https://www.semanticscholar.org/author/Jean-Philippe-Bernardy/144701616
+    username: ~Jean-Philippe_Bernardy1
+  - dblp_id: https://dblp.org/pid/70/6331
+    emails: jeremy.barnes@ehu.eus
+    first_name: Jeremy
+    google_scholar_id: https://scholar.google.nl/citations?user=OZGuamsAAAAJ&hl=en#
+    homepage: https://jerbarnes.github.io/
+    institution: University of the Basque Country
+    last_name: Barnes
+    name: Jeremy Barnes
+    semantic_scholar_id: https://www.semanticscholar.org/author/Jeremy-Barnes/144435436
+    username: ~Jeremy_Barnes1
+  - dblp_id: https://dblp.org/pid/n/JoakimNivre
+    emails: joakim.nivre@ri.se
+    first_name: Joakim
+    google_scholar_id: https://scholar.google.co.uk/citations?user=lLBHtFUAAAAJ&hl=sv
+    homepage: https://www.ri.se/en/person/joakim-nivre
+    institution: Uppsala University
+    last_name: Nivre
+    name: Joakim Nivre
+    orcid: https://orcid.org/0000-0002-7873-3971
+    semantic_scholar_id: https://www.semanticscholar.org/author/Joakim-Nivre/1720988
+    username: ~Joakim_Nivre1
+  - dblp_id: https://dblp.org/pid/13/2249
+    emails: jboye@kth.se
+    first_name: Johan
+    google_scholar_id: https://scholar.google.com/citations?user=Ukmi_9YAAAAJ&hl=sv&oi=ao
+    homepage: http://www.csc.kth.se/~jboye
+    institution: KTH Royal Institute of Technology, Stockholm, Sweden
+    last_name: Boye
+    name: Johan Boye
+    orcid: https://orcid.org/0000-0003-2600-7668
+    semantic_scholar_id: https://www.semanticscholar.org/author/Johan-Boye/2386212
+    username: ~Johan_Boye1
+  - emails: jg@ru.is
+    first_name: Jon
+    google_scholar_id: https://scholar.google.com/citations?user=WC-4UtwAAAAJ&hl=en
+    homepage: http://www.ru.is/faculty/jg/
+    last_name: Gudnason
+    name: Jon Gudnason
+    orcid: https://orcid.org/0000-0001-6560-5543
+    username: ~Jon_Gudnason1
+  - emails: jurgita.kapociute-dzikiene@vdu.lt
+    first_name: Jurgita
+    homepage: http://www.linkedin.com/in/jurgita-kapociute-dzikiene
+    institution: Vytautas Magnus University and Tilde IT
+    last_name: Kapočiūtė-Dzikienė
+    name: Jurgita Kapočiūtė-Dzikienė
+    username: ~Jurgita_Kapočiūtė-Dzikienė1
+  - emails: jussi@lingvi.st
+    first_name: Jussi
+    homepage: http://lingvi.st
+    last_name: Karlgren
+    name: Jussi Karlgren
+    username: ~Jussi_Karlgren2
+  - dblp_id: https://dblp.org/pid/15/670
+    emails: jorg.tiedemann@helsinki.fi
+    first_name: Jörg
+    google_scholar_id: https://scholar.google.com/citations?user=j6V-rOUAAAAJ
+    homepage: https://blogs.helsinki.fi/tiedeman/
+    institution: University of Helsinki
+    last_name: Tiedemann
+    name: Jörg Tiedemann
+    orcid: https://orcid.org/0000-0003-3065-7989
+    semantic_scholar_id: https://www.semanticscholar.org/author/J.-Tiedemann/143675545
+    username: ~Jörg_Tiedemann1
+  - dblp_id: https://dblp.org/pid/41/5597
+    emails: kaljurand@gmail.com
+    first_name: Kaarel
+    last_name: Kaljurand
+    name: Kaarel Kaljurand
+    username: ~Kaarel_Kaljurand1
+  - emails: kadri.muischnek@ut.ee
+    first_name: Kadri
+    homepage: https://www.etis.ee/CV/Kadri_Muischnek/eng/#
+    institution: University of Tartu
+    last_name: Muischnek
+    name: Kadri Muischnek
+    username: ~Kadri_Muischnek1
+  - emails: kaili.muurisep@gmail.com
+    first_name: Kaili
+    google_scholar_id: https://scholar.google.com/citations?user=BSsD0vgAAAAJ&hl=en
+    institution: institute of computer science, University of Tartu
+    last_name: Müürisep
+    name: Kaili Müürisep
+    username: ~Kaili_Müürisep1
+  - dblp_id: https://dblp.uni-trier.de/pid/116/0450.html
+    emails: kairit.sirts@gmail.com
+    first_name: Kairit
+    google_scholar_id: https://scholar.google.com/citations?user=YOrsSssAAAAJ&hl=en
+    institution: University of Tartu
+    last_name: Sirts
+    name: Kairit Sirts
+    semantic_scholar_id: https://www.semanticscholar.org/author/Kairit-Sirts/2132289
+    username: ~Kairit_Sirts2
+  - dblp_id: https://dblp.org/pid/182/1923
+    emails: katharina.kann@colorado.edu
+    first_name: Katharina
+    institution: University of Colorado, Boulder and New York University
+    last_name: Kann
+    name: Katharina Kann
+    semantic_scholar_id: https://www.semanticscholar.org/author/Katharina-Kann/3422953
+    username: ~Katharina_Kann1
+  - emails: kinetical@live.com
+    name: Jiaming Kong
+    first_name: Jiaming
+    last_name: Kong
+  - dblp_id: https://dblp.org/pid/72/4334
+    emails: krasimir@chalmers.se
+    first_name: Krasimir
+    institution: Chalmers University of Technology
+    last_name: Angelov
+    name: Krasimir Angelov
+    username: ~Krasimir_Angelov1
+  - emails: krister.linden@helsinki.fi
+    first_name: Krister
+    google_scholar_id: https://scholar.google.fi/citations?user=VLdk5AIAAAAJ
+    homepage: https://researchportal.helsinki.fi/en/persons/krister-linden
+    institution: University of Helsinki
+    last_name: Lindén
+    name: Krister Lindén
+    orcid: https://orcid.org/0000-0003-2337-303X
+    username: ~Krister_Lindén2
+  - emails: lars.ahrenberg@liu.se
+    first_name: Lars
+    google_scholar_id: https://scholar.google.com/citations?user=VSi9qZkAAAAJ&hl=sv
+    homepage: https://liu.se/en/employee/larah03
+    institution: Linköping University
+    last_name: Ahrenberg
+    name: Lars Ahrenberg
+    username: ~Lars_Ahrenberg2
+  - dblp_id: https://dblp.org/pid/66/8157
+    emails: ld@itu.dk
+    first_name: Leon
+    google_scholar_id: https://scholar.google.dk/citations?user=d8iwqa8AAAAJ&hl=en
+    homepage: https://www.derczynski.com/itu/
+    institution: IT University of Copenhagen
+    last_name: Derczynski
+    name: Leon Derczynski
+    orcid: https://orcid.org/0000-0002-8656-3431
+    semantic_scholar_id: https://www.semanticscholar.org/author/Leon-Derczynski/113320522
+    username: ~Leon_Derczynski1
+  - emails: liisa.ratsep@ut.ee
+    first_name: Liisa
+    google_scholar_id: https://scholar.google.com/citations?user=eMHnbh4AAAAJ
+    institution: University of Tartu
+    last_name: Rätsep
+    name: Liisa Rätsep
+    username: ~Liisa_Rätsep1
+  - dblp_id: https://dblp.org/pid/13/3479-6
+    emails: linchen04@gmail.com
+    first_name: Lin
+    google_scholar_id: https://scholar.google.com/citations?user=f88QbTkAAAAJ&hl=en
+    last_name: Chen
+    name: Lin Chen
+    username: ~Lin_Chen17
+  - dblp_id: https://dblp.org/pid/76/3617
+    emails: magnus.sahlgren@ai.se
+    first_name: Magnus
+    google_scholar_id: https://scholar.google.com/citations?user=Nf2NNVwAAAAJ
+    institution: AI Sweden
+    last_name: Sahlgren
+    name: Magnus Sahlgren
+    orcid: https://orcid.org/0000-0001-5100-0535
+    username: ~Magnus_Sahlgren1
+  - dblp_id: https://dblp.org/pid/192/9988
+    emails: maja.buljan.42@gmail.com
+    first_name: Maja
+    last_name: Buljan
+    name: Maja Buljan
+    username: ~Maja_Buljan1
+  - dblp_id: https://dblp.org/pid/85/5777
+    emails: marco.kuhlmann@liu.se
+    first_name: Marco
+    google_scholar_id: https://scholar.google.de/citations?user=F10PNQMAAAAJ
+    homepage: https://www.ida.liu.se/~marku61/
+    institution: Linköping University
+    last_name: Kuhlmann
+    name: Marco Kuhlmann
+    orcid: https://orcid.org/0000-0002-2492-9872
+    username: ~Marco_Kuhlmann1
+  - dblp_id: https://dblp.org/pid/31/1772
+    emails: mare.koit@ut.ee
+    first_name: Mare
+    homepage: https://kodu.ut.ee/~koit/
+    last_name: Koit
+    name: Mare Koit
+    orcid: https://orcid.org/0000-0002-7318-087X
+    semantic_scholar_id: https://www.semanticscholar.org/author/M.-Koit/2570430
+    username: ~Mare_Koit1
+  - dblp_id: https://dblp.org/pid/206/6859
+    emails: mrkhartmann4@gmail.com
+    first_name: Mareike
+    last_name: Hartmann
+    name: Mareike Hartmann
+    username: ~Mareike_Hartmann1
+  - emails: maria.skeppstedt@isof.se
+    first_name: Maria
+    google_scholar_id: https://scholar.google.com/citations?user=QVbrpEIAAAAJ&hl=sv
+    institution: Uppsala University
+    last_name: Skeppstedt
+    name: Maria Skeppstedt
+    username: ~Maria_Skeppstedt2
+  - dblp_id: https://dblp.org/pid/87/8150
+    emails: marie.candito@gmail.com
+    first_name: Marie
+    google_scholar_id: https://scholar.google.fr/citations?hl=fr&user=4vKu5zcAAAAJ
+    homepage: http://www.linguist.univ-paris-diderot.fr/~mcandito/
+    institution: Université de Paris
+    last_name: Candito
+    name: Marie Candito
+    orcid: https://orcid.org/0000-0001-8306-4859
+    semantic_scholar_id: https://www.semanticscholar.org/author/Marie-Candito/2636107
+    username: ~Marie_Candito1
+  - emails: volk@cl.uzh.ch
+    first_name: Martin
+    homepage: http://www.cl.uzh.ch/volk
+    institution: University of Zurich
+    last_name: Volk
+    name: Martin Volk
+    orcid: https://orcid.org/0000-0002-2063-4516
+    username: ~Martin_Volk1
+  - emails: martti.vainio@helsinki.fi
+    first_name: Martti
+    institution: University of Helsinki
+    last_name: Vainio
+    name: Martti Vainio
+    orcid: https://orcid.org/0000-0003-2570-0196
+    username: ~Martti_Vainio1
+  - dblp_id: https://dblp.org/pid/51/1149
+    emails: mathias.creutz@helsinki.fi
+    first_name: Mathias
+    google_scholar_id: https://scholar.google.com/citations?hl=en&user=ncM49eV-X6kC
+    homepage: https://researchportal.helsinki.fi/en/persons/mathias-creutz
+    institution: University of Helsinki
+    last_name: Creutz
+    name: Mathias Creutz
+    orcid: https://orcid.org/0000-0003-1862-4172
+    username: ~Mathias_Creutz1
+  - dblp_id: https://dblp.org/pid/99/671k
+    emails: miikka.silfverberg@ubc.ca
+    first_name: Miikka
+    google_scholar_id: https://scholar.google.com/citations?user=0ey1PKYAAAAJ&hl=fi
+    homepage: https://mpsilfve.github.io
+    institution: University of British Columbia
+    last_name: Silfverberg
+    name: Miikka Silfverberg
+    username: ~Miikka_Silfverberg1
+  - emails: mikko.kurimo@aalto.fi
+    first_name: Mikko
+    google_scholar_id: https://scholar.google.com/scholar?hl=en&scisbd=1&as_sdt=0%2C5&q=Mikko+Kurimo&btnG=
+    institution: Aalto University
+    last_name: Kurimo
+    name: Mikko Kurimo
+    username: ~Mikko_Kurimo2
+  - dblp_id: https://dblp.org/pid/76/10197.html
+    emails: marcis.pinnis@tilde.lv
+    first_name: Mārcis
+    google_scholar_id: https://scholar.google.com/citations?user=KGgdwWwAAAAJ&hl=en
+    institution: University of Latvia, EKA University of Applied Sciences and Tilde
+    last_name: Pinnis
+    name: Mārcis Pinnis
+    semantic_scholar_id: https://www.semanticscholar.org/author/Marcis-Pinnis/2161780
+    username: ~Mārcis_Pinnis1
+  - emails: niklas.zechner@gmail.com
+    first_name: Niklas
+    homepage: https://spraakbanken.gu.se/om/personal/niklas
+    institution: Göteborg University
+    last_name: Zechner
+    name: Niklas Zechner
+    username: ~Niklas_Zechner1
+  - dblp_id: https://dblp.org/pid/47/4114
+    emails: normundsg@ailab.lv
+    first_name: Normunds
+    google_scholar_id: https://scholar.google.com/citations?user=bRE9ckgAAAAJ
+    institution: University of Latvia and IMCS at University of Latvia
+    last_name: Gruzitis
+    name: Normunds Gruzitis
+    orcid: https://orcid.org/0000-0003-0511-1829
+    username: ~Normunds_Gruzitis1
+  - dblp_id: https://dblp.org/pid/31/6683
+    emails: paggio@hum.ku.dk
+    first_name: Patrizia
+    google_scholar_id: https://scholar.google.com/citations?hl=en&user=gSqyTW8AAAAJ
+    homepage: https://patriziapaggio.github.io
+    institution: University of Malta and University of Copenhagen
+    last_name: Paggio
+    name: Patrizia Paggio
+    username: ~Patrizia_Paggio1
+  - dblp_id: https://dblp.org/pid/57/513
+    emails: plison@nr.no
+    first_name: Pierre
+    google_scholar_id: https://scholar.google.com/citations?user=LcLqSYIAAAAJ
+    homepage: http://www.nr.no/~plison
+    institution: Norwegian Computing Center
+    last_name: Lison
+    name: Pierre Lison
+    username: ~Pierre_Lison1
+  - dblp_id: https://dblp.org/pid/63/2645
+    emails: pierre.nugues@cs.lth.se
+    first_name: Pierre
+    google_scholar_id: https://scholar.google.com/citations?user=WaxK-y9Xx18C&hl=en
+    institution: Lund University
+    last_name: Nugues
+    name: Pierre Nugues
+    orcid: https://orcid.org/0000-0002-9563-4000
+    semantic_scholar_id: https://www.semanticscholar.org/author/P.-Nugues/1754406
+    username: ~Pierre_Nugues1
+  - dblp_id: https://dblp.org/pid/61/8163
+    emails: raivis.skadins@tilde.lv
+    first_name: Raivis
+    google_scholar_id: https://scholar.google.com/citations?hl=en&user=rtw1asoAAAAJ
+    institution: University of Latvia
+    last_name: Skadiņš
+    name: Raivis Skadiņš
+    orcid: https://orcid.org/0000-0003-0929-2380
+    username: ~Raivis_Skadiņš1
+  - dblp_id: https://dblp.org/pid/56/3767
+    emails: richard.johansson@gu.se
+    first_name: Richard
+    google_scholar_id: https://scholar.google.se/citations?user=FvhWYU8AAAAJ
+    homepage: http://www.cse.chalmers.se/~richajo/
+    institution: Chalmers University and University of Gothenburg
+    last_name: Johansson
+    name: Richard Johansson
+    orcid: https://orcid.org/0000-0002-9429-4884
+    semantic_scholar_id: https://www.semanticscholar.org/author/Richard-Johansson/145341661
+    username: ~Richard_Johansson1
+  - dblp_id: https://dblp.org/pid/184/8526
+    emails: robvanderg@live.nl
+    first_name: Rob
+    google_scholar_id: https://scholar.google.com/citations?user=lU4zpOEAAAAJ&hl=nl
+    homepage: https://robvanderg.github.io/
+    last_name: Goot
+    middle_name: Van Der
+    name: Rob van der Goot
+    semantic_scholar_id: https://www.semanticscholar.org/author/Rob-van-der-Goot/3449407
+    username: ~Rob_van_der_Goot1
+  - dblp_id: https://dblp.org/pid/148/4548
+    emails: robert@ling.su.se
+    first_name: Robert
+    google_scholar_id: https://scholar.google.com/citations?user=AXTBmVoAAAAJ
+    homepage: http://www.robos.org
+    institution: Stockholm University, Stockholm, Sweden
+    last_name: Östling
+    name: Robert Östling
+    orcid: https://orcid.org/0000-0002-6027-4156
+    username: ~Robert_Östling1
+  - dblp_id: https://dblp.org/pid/135/0970
+    emails: robin.kurtz@kb.se
+    first_name: Robin
+    google_scholar_id: https://scholar.google.de/citations?user=dAZj0B4AAAAJ&hl=sv&oi=ao
+    homepage: https://kb-labb.github.io/about.html#robin-kurtz-data-scientist
+    institution: National Libray of Sweden
+    last_name: Kurtz
+    name: Robin Kurtz
+    username: ~Robin_Kurtz1
+  - dblp_id: https://dblp.org/pid/21/4183
+    emails: roman.klinger@ims.uni-stuttgart.de
+    first_name: Roman
+    google_scholar_id: https://scholar.google.de/citations?user=1flvefwAAAAJ&hl=de
+    homepage: https://www.romanklinger.de
+    institution: University of Stuttgart
+    last_name: Klinger
+    name: Roman Klinger
+    orcid: https://orcid.org/0000-0002-2014-6619
+    semantic_scholar_id: https://www.semanticscholar.org/author/Roman-Klinger/66339110
+    username: ~Roman_Klinger1
+  - emails: roman.yangarber@helsinki.fi
+    first_name: Roman
+    google_scholar_id: https://scholar.google.com/citations?user=jb5mzrwAAAAJ&hl=en&oi=ao
+    institution: University of Helsinki
+    last_name: Yangarber
+    name: Roman Yangarber
+    orcid: https://orcid.org/0000-0001-5264-9870
+    username: ~Roman_Yangarber2
+  - dblp_id: https://dblp.org/pid/181/9095
+    emails: satre@idi.ntnu.no
+    first_name: Rune
+    google_scholar_id: https://scholar.google.com/citations?user=zFrz0jAAAAAJ&hl=en
+    homepage: https://www.ntnu.edu/employees/rune.saetre
+    institution: Norwegian University of Science and Technology
+    last_name: Sætre
+    name: Rune Sætre
+    orcid: https://orcid.org/0000-0002-2134-6356
+    semantic_scholar_id: https://www.semanticscholar.org/author/Rune-S%C3%A6tre/1743149
+    username: ~Rune_Sætre1
+  - dblp_id: https://dblp.org/pid/148/4526
+    emails: samia.touileb@gmail.com
+    first_name: Samia
+    google_scholar_id: https://scholar.google.no/citations?user=-9vmnigAAAAJ&hl=en
+    homepage: https://www.mn.uio.no/ifi/english/people/aca/samiat/
+    institution: University og Bergen, Norway
+    last_name: Touileb
+    name: Samia Touileb
+    semantic_scholar_id: https://www.semanticscholar.org/author/Samia-Touileb/3083347
+    username: ~Samia_Touileb1
+  - emails: sampo.pyysalo@gmail.com
+    name: Sampo Pyysalo
+    first_name: Sampo
+    last_name: Pyysalo
+  - dblp_id: https://dblp.org/pid/04/5096
+    emails: sara.stymne@lingfil.uu.se
+    first_name: Sara
+    google_scholar_id: https://scholar.google.com/citations?user=A-zhXEoAAAAJ&hl=en
+    homepage: https://cl.lingfil.uu.se/~sara/
+    last_name: Stymne
+    name: Sara Stymne
+    orcid: https://orcid.org/0000-0003-3726-9399
+    semantic_scholar_id: https://www.semanticscholar.org/author/Sara-Stymne/1713395
+    username: ~Sara_Stymne1
+  - dblp_id: https://dblp.org/pid/241/3980
+    emails: sidselboldsen@gmail.com
+    first_name: Sidsel
+    institution: University of Copenhagen
+    last_name: Boldsen
+    name: Sidsel Boldsen
+    semantic_scholar_id: https://www.semanticscholar.org/author/Sidsel-Boldsen/120466767
+    username: ~Sidsel_Boldsen1
+  - dblp_id: https://dblp.org/pid/99/8434
+    emails: simon.dobnik@gu.se
+    first_name: Simon
+    google_scholar_id: https://scholar.google.com/citations?user=Ie41FMAAAAAJ&hl=en
+    homepage: https://www.gu.se/en/about/find-staff/simondobnik
+    institution: University of Gothenburg
+    last_name: Dobnik
+    name: Simon Dobnik
+    orcid: https://orcid.org/0000-0002-4019-7966
+    semantic_scholar_id: https://www.semanticscholar.org/author/Simon-Dobnik/2995275
+    username: ~Simon_Dobnik1
+  - dblp_id: https://dblp.org/pid/74/2779.html
+    emails: stefanie.dipper@rub.de
+    first_name: Stefanie
+    google_scholar_id: https://scholar.google.de/citations?user=ipQ05j0AAAAJ&hl=de
+    homepage: https://www.linguistics.ruhr-uni-bochum.de/~dipper/
+    institution: Ruhr-Universtät Bochum
+    last_name: Dipper
+    name: Stefanie Dipper
+    orcid: https://orcid.org/0000-0003-4357-9078
+    semantic_scholar_id: https://www.semanticscholar.org/author/Stefanie-Dipper/1889046
+    username: ~Stefanie_Dipper1
+  - emails: steinthor.steingrimsson@arnastofnun.is
+    first_name: Steinþór
+    google_scholar_id: https://scholar.google.com/citations?user=3os-w9gAAAAJ&hl=en
+    last_name: Steingrímsson
+    name: Steinþór Steingrímsson
+    username: ~Steinþór_Steingrímsson1
+  - emails: tamas.grosz@aalto.fi
+    first_name: Tamás
+    google_scholar_id: https://scholar.google.com/citations?hl=en&user=RCUa8MAAAAAJ
+    homepage: https://people.aalto.fi/tamas.grosz
+    institution: Aalto University
+    last_name: Grósz
+    name: Tamás Grósz
+    orcid: https://orcid.org/0000-0001-7918-9579
+    username: ~Tamás_Grósz1
+  - dblp_id: https://dblp.org/pid/22/7517
+    emails: timo.baumann@oth-regensburg.de
+    first_name: Timo
+    google_scholar_id: https://scholar.google.com/citations?user=ZV_xxRUAAAAJ
+    homepage: http://www.timobaumann.de/work/
+    institution: OTH Regensburg
+    last_name: Baumann
+    name: Timo Baumann
+    orcid: https://orcid.org/0000-0003-2203-1783
+    semantic_scholar_id: https://www.semanticscholar.org/author/Timo-Baumann/8800150
+    username: ~Timo_Baumann1
+  - dblp_id: https://dblp.org/pid/160/9804.html
+    emails: tommi.jauhiainen@helsinki.fi
+    first_name: Tommi
+    google_scholar_id: https://scholar.google.fi/citations?user=7fv1CgIAAAAJ&hl
+    homepage: https://researchportal.helsinki.fi/en/persons/tommi-jauhiainen
+    institution: University of Turku, University of Helsinki and Tampere University
+      of Technology
+    last_name: Jauhiainen
+    name: Tommi Jauhiainen
+    orcid: https://orcid.org/0000-0002-6474-3570
+    username: ~Tommi_Jauhiainen1
+  - emails: torbjorn@iet.ntnu.no
+    first_name: Torbjørn
+    google_scholar_id: https://scholar.google.com/citations?hl=en&user=A_-fr8oAAAAJ
+    homepage: https://www.ntnu.edu/employees/torbjosv
+    institution: Norwegian University of Science and Technology
+    last_name: Svendsen
+    name: Torbjørn Svendsen
+    username: ~Torbjørn_Svendsen1
+  - emails: trond.trosterud@uit.no
+    first_name: Trond
+    homepage: https://en.uit.no/ansatte/person?p_document_id=41545
+    institution: University of Tromsø
+    last_name: Trosterud
+    name: Trond Trosterud
+    username: ~Trond_Trosterud1
+  - dblp_id: https://dblp.uni-trier.de/pid/86/11425.html
+    emails: valerio.basile@unito.it
+    first_name: Valerio
+    google_scholar_id: https://scholar.google.it/citations?user=5VCe4aAAAAAJ&hl=en
+    homepage: http://valeriobasile.github.io/
+    institution: University of Turin
+    last_name: Basile
+    name: Valerio Basile
+    orcid: https://orcid.org/0000-0001-8110-6832
+    semantic_scholar_id: https://www.semanticscholar.org/author/Valerio-Basile/3101511
+    username: ~Valerio_Basile2
+  - dblp_id: https://dblp.org/pid/65/6671
+    emails: yves.scherrer@helsinki.fi
+    first_name: Yves
+    google_scholar_id: https://scholar.google.com/citations?user=SyQu88MAAAAJ
+    homepage: https://blogs.helsinki.fi/yvesscherrer/
+    institution: University of Helsinki
+    last_name: Scherrer
+    name: Yves Scherrer
+    semantic_scholar_id: https://www.semanticscholar.org/author/Yves-Scherrer/3080637
+    username: ~Yves_Scherrer1
+  - dblp_id: https://dblp.org/pid/146/3989.html
+    emails: yvonne.adesam@gu.se
+    first_name: Yvonne
+    google_scholar_id: https://scholar.google.com/citations?user=eRY5mnsAAAAJ
+    homepage: https://spraakbanken.gu.se/en/about/staff/yvonne
+    institution: Göteborg University
+    last_name: Adesam
+    name: Yvonne Adesam
+    orcid: https://orcid.org/0000-0002-9413-512X
+    semantic_scholar_id: https://www.semanticscholar.org/author/Yvonne-Adesam/3255303
+    username: ~Yvonne_Adesam1
+  role: Reviewers
+  type: name_block
