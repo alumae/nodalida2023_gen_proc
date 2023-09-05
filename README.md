@@ -12,6 +12,12 @@ It is based on https://github.com/rycolab/aclpub2 with some modifications. Most 
 
 * Install required Python packages (see `requirements.txt`)
 
+* Generate the list of reviewers (`program_committee.yml`)
+
+  python    scripts/or2program_committee.py USER PASSWORD NoDaLiDa/2023/Conference
+  
+* Go through `program_committee.yml` and modify, if needed.
+
 * Generate `papers.yml` along with `papers/` subdirectory
 
   python scripts/or2papers.py --all --pdfs USER PASSWORD NoDaLiDa/2023/Conference
