@@ -15,7 +15,7 @@ It is based on https://github.com/rycolab/aclpub2 with some modifications. Most 
 * Generate the list of reviewers (`program_committee.yml`)
 
 ```    
-python    scripts/or2program_committee.py USER PASSWORD NoDaLiDa/2023/Conference
+python scripts/or2program_committee.py USER PASSWORD NoDaLiDa/2023/Conference
 ```
    
 * Go through `program_committee.yml` and modify, if needed.
