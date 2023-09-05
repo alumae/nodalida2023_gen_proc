@@ -14,22 +14,30 @@ It is based on https://github.com/rycolab/aclpub2 with some modifications. Most 
 
 * Generate the list of reviewers (`program_committee.yml`)
 
-    python    scripts/or2program_committee.py USER PASSWORD NoDaLiDa/2023/Conference
+```    
+python    scripts/or2program_committee.py USER PASSWORD NoDaLiDa/2023/Conference
+```
    
 * Go through `program_committee.yml` and modify, if needed.
 
 * Generate `papers.yml` along with `papers/` subdirectory
 
-    python scripts/or2papers.py --all --pdfs USER PASSWORD NoDaLiDa/2023/Conference
+```   
+python scripts/or2papers.py --all --pdfs USER PASSWORD NoDaLiDa/2023/Conference
+```
 
 * Go through `papars.yml` and update author names for those that do not have their OpenReview aprofile properly configured
 
 * Generate the ACL ingestion package
 
-    PYTHONPATH=. ./bin/generate  --proceedings --overwrite .
+```
+PYTHONPATH=. ./bin/generate  --proceedings --overwrite .
+```
  
 * Tar the output directory
 
-    tar zcvf nodalida2023main_aclpub2.tgz output/
+```
+tar zcvf nodalida2023main_aclpub2.tgz output/
+```
  
 * Upload it to Google Drive or whatever and add the link to the Github issue that you opened in Step 1.
