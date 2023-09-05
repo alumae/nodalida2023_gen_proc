@@ -12,7 +12,7 @@ It is based on https://github.com/rycolab/aclpub2 with some modifications. Most 
 
 * Install required Python packages (see `requirements.txt`)
 
-* Generate the list of reviewers (`program_committee.yml`)
+* Generate the list of reviewers (`program_committee.yml`). Change USER and PASSWORD to your OpenReview credentials.
 
 ```    
 python scripts/or2program_committee.py USER PASSWORD NoDaLiDa/2023/Conference
